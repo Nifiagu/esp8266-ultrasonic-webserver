@@ -133,35 +133,35 @@ void handleRoot() {
         <button class="rainbow-button" onclick="toggleMembers()">Members</button>
         <div id="memberList" class="member-list">
           <div class="member-container" onmouseover="showPhoto('patinio')" onmouseout="hidePhoto('patinio')">
-            <img id="patinio" class="member-photo" src="https://i.imgur.com/KdxXS1s.jpg" width="100">
+            <img id="patinio" class="member-photo" src="https://i.yourpicturelink.jpg" width="100">
             <span class="member-item">PATINIO, RAMELYN JAYNE</span>
           </div>
           <div class="member-container" onmouseover="showPhoto('puno')" onmouseout="hidePhoto('puno')">
-            <img id="puno" class="member-photo" src="https://i.imgur.com/E6aX2Lw.jpg" width="100">
+            <img id="puno" class="member-photo" src="https://i.yourpicturelink.jpg" width="100">
             <span class="member-item">PUNO, NIKKO M.</span>
           </div>
           <div class="member-container" onmouseover="showPhoto('omega')" onmouseout="hidePhoto('omega')">
-            <img id="omega" class="member-photo" src="https://i.imgur.com/SBDHc0Z.jpg" width="100">
+            <img id="omega" class="member-photo" src="https://i.yourpicturelink.jpg" width="100">
             <span class="member-item">OMEGA, JESTER F.</span>
           </div>
           <div class="member-container" onmouseover="showPhoto('pila')" onmouseout="hidePhoto('pila')">
-            <img id="pila" class="member-photo" src="https://i.imgur.com/VBcyjxl.jpg" width="100">
+            <img id="pila" class="member-photo" src="https://i.yourpicturelink.jpg" width="100">
             <span class="member-item">PILA, JHADE MAURENE L.</span>
           </div>
           <div class="member-container" onmouseover="showPhoto('ponce')" onmouseout="hidePhoto('ponce')">
-            <img id="ponce" class="member-photo" src="https://i.imgur.com/qOW722G.jpg" width="100">
+            <img id="ponce" class="member-photo" src="https://i.yourpicturelink.jpg" width="100">
             <span class="member-item">PONCE, MARC VINCENT G.</span>
           </div>
           <div class="member-container" onmouseover="showPhoto('arafol')" onmouseout="hidePhoto('arafol')">
-            <img id="arafol" class="member-photo" src="https://i.imgur.com/DZd5KIk.jpg" width="100">
+            <img id="arafol" class="member-photo" src="https://i.yourpicturelink.jpg" width="100">
             <span class="member-item">ARAFOL, MARC LOUIE A.</span>
           </div>
           <div class="member-container" onmouseover="showPhoto('cortes')" onmouseout="hidePhoto('cortes')">
-            <img id="cortes" class="member-photo" src="https://i.imgur.com/DDXJ6Mr.jpg" width="100">
+            <img id="cortes" class="member-photo" src="https://i.yourpicturelink.jpg" width="100">
             <span class="member-item">CORTES, JOHN PATRICK KHARLO</span>
           </div>
           <div class="member-container" onmouseover="showPhoto('bughao')" onmouseout="hidePhoto('bughao')">
-            <img id="bughao" class="member-photo" src="https://i.imgur.com/vFH4AFM.jpg" width="100">
+            <img id="bughao" class="member-photo" src="https://i.yourpicturelink.jpg" width="100">
             <span class="member-item">BUGHAO, HANNY CLAIRE</span>
           </div>
         </div>
